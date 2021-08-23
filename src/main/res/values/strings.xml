@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WhatsApp</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="already">Already have Account</string>
+    <string name="signupBut">SIGN UP</string>
+    <string name="google">GOOGLE</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="phonesighnup">Sign Up with Phone</string>
+    <string name="signInBut">Sign in</string>
+    <string name="cilckFor">Click for SignUp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

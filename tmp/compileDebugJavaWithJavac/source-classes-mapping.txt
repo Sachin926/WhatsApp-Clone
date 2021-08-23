@@ -1,0 +1,24 @@
+com/example/whatsapp/BuildConfig.java
+ com.example.whatsapp.BuildConfig
+com/example/whatsapp/databinding/ActivitySingupBinding.java
+ com.example.whatsapp.databinding.ActivitySingupBinding
+com/example/whatsapp/databinding/ActivitySigninBinding.java
+ com.example.whatsapp.databinding.ActivitySigninBinding
+com/example/whatsapp/Models/Users.java
+ com.example.whatsapp.Models.Users
+com/example/whatsapp/SingupActivity.java
+ com.example.whatsapp.SingupActivity
+ com.example.whatsapp.SingupActivity$1
+ com.example.whatsapp.SingupActivity$1$1
+ com.example.whatsapp.SingupActivity$2
+com/example/whatsapp/databinding/ActivityMainBinding.java
+ com.example.whatsapp.databinding.ActivityMainBinding
+com/example/whatsapp/signinActivity.java
+ com.example.whatsapp.signinActivity
+ com.example.whatsapp.signinActivity$1
+ com.example.whatsapp.signinActivity$1$1
+ com.example.whatsapp.signinActivity$2
+ com.example.whatsapp.signinActivity$3
+ com.example.whatsapp.signinActivity$4
+com/example/whatsapp/MainActivity.java
+ com.example.whatsapp.MainActivity
